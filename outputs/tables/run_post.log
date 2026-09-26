@@ -1,0 +1,261 @@
+마스터 테이블 (228, 86), 정류장 자료 결함 의심 7곳: ['인천광역시 옹진군', '전라남도 담양군', '전라남도 보성군', '전라남도 진도군', '전라남도 신안군', '경상남도 산청군', '강원특별자치도 고성군'] / 등록지 왜곡 의심: ['부산광역시 중구', '인천광역시 옹진군']
+결측 있는 열:
+ n_routes                    176
+n_routes_weekday_service    176
+weekday_runs_total          176
+n_routes_weekday_le2        176
+n_routes_weekday_ge10       176
+tsbis_share_routes_le2      176
+tsbis_runs_per_1k           176
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: divide by zero encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: invalid value encountered in matmul
+  ret = a @ b
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: divide by zero encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: overflow encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/cluster/_kmeans.py:237: RuntimeWarning: invalid value encountered in matmul
+  current_pot = closest_dist_sq @ sample_weight
+실루엣: {2: 0.432, 3: 0.317, 4: 0.309, 5: 0.266, 6: 0.28, 7: 0.284}
+           n        pop  pop_car_ess  pop65_car_ess  share_car_ess  share_65p   density      d_pc    d_shop   bike   rail  urban         name
+cluster                                                                                                                                      
+0        299  1817031.0   378889.562     142412.253          0.209      0.449   180.680  2209.799  2702.599  0.375  0.000  0.057   농촌 생활권 외곽형
+1        256  6822475.0   797888.630     145595.450          0.111      0.203  2163.844  1223.850   713.330  0.384  0.000  0.594  도시 외곽·도농복합형
+2        374   794910.0   236454.612     121667.881          0.270      0.531    66.636  2386.579  7717.224  0.001  0.000  0.008   초고령 산간·오지형
+3         68  1883541.0   157984.515      31072.835          0.090      0.210  4101.692   835.670   437.681  0.251  0.344  0.794   역세권 라스트마일형
+상위 N 포괄률: {100: 0.16703264976743526, 200: 0.2711259209679115, 300: 0.35670061743259884, 500: 0.4947254477156634}
+   n_units         pop  share_car_ess    vkt_pc  co2_pc_t  daily_km_car  transit_commute  active_commute  death65_per_100k65  ev_per_1k_car  wage_mn  share_65p
+q                                                                                                                                                              
+1     29.0   9574873.0          0.002  2994.326     0.427        26.810            0.433           0.220               2.842         19.489   46.363      0.217
+2     29.0  10702607.0          0.011  3950.879     0.563        28.197            0.315           0.210               3.244         20.910   47.923      0.216
+3     24.0   9515041.0          0.030  4458.637     0.635        30.037            0.234           0.190               4.784         19.773   43.723      0.199
+4     27.0  10682812.0          0.051  5264.410     0.750        30.819            0.155           0.189               7.405         21.553   45.186      0.188
+5    111.0  10341402.0          0.121  5392.202     0.768        32.191            0.113           0.224              14.102         25.461   40.129      0.279
+                       pop  pop_65p  pop_car_ess  pop65_car_ess  n_units  members_q1end  refund_recipients_month_avg  refund_amount_q1_mil_krw  usage_amount_q1_mil_krw  share_car_ess  members_per_100  refund_per_capita_year_krw
+modu_region_type                                                                                                                                                                                                                   
+수도권               25927723  5050361   666830.100     130765.571       61        3450678                      2067027                    138436                   440757          0.026           13.309                   21357.217
+일반지방권             21069602  4651876   982467.053     239510.942       83        1370495                       651115                     34632                    98783          0.047            6.505                    6574.780
+우대지원지역             2611934   945586   380747.572     156173.747       44          54828                       137863                      7188                    22637          0.146            2.099                   11007.935
+특별지원지역             1474900   630188   293065.931     133305.828       40          25877                        11377                       427                     1038          0.199            1.754                    1158.045
+                pop  pop_car_ess   sidonm  members_2025end  refund_amount_mil_krw  share_car_ess  members_per_100  refund_per_capita_krw
+sido_2025                                                                                                                               
+11          9281625    32365.711    서울특별시          1047961                 123497          0.003           11.291              13305.536
+26          3229467    58585.291    부산광역시           275657                  16195          0.018            8.536               5014.759
+27          2346277    52955.274    대구광역시           162974                  15777          0.023            6.946               6724.270
+29          1383958    33640.200    광주광역시           127211                   8574          0.024            9.192               6195.275
+30          1442838    39990.272    대전광역시           104246                   9006          0.028            7.225               6241.865
+41         13773918   529245.489      경기도          1622908                 217958          0.038           11.782              15823.965
+28          3066185   144970.492    인천광역시           350752                  43950          0.047           11.439              14333.773
+36           390738    19460.018  세종특별자치시            18098                   1369          0.050            4.632               3503.626
+52          1716965    98688.831  전북특별자치도            29645                   1760          0.057            1.727               1025.065
+31          1086373    69094.605    울산광역시            48111                   3685          0.064            4.429               3392.021
+43          1601367   110273.313     충청북도            27921                   1824          0.069            1.744               1139.027
+48          3191645   238549.120     경상남도           279187                  17621          0.075            8.747               5520.977
+44          2138938   174174.774     충청남도            47822                   3380          0.081            2.236               1580.223
+47          2492677   242345.861     경상북도            48513                   3400          0.097            1.946               1363.995
+51          1506662   166973.873  강원특별자치도            25048                   1670          0.111            1.662               1108.411
+50           662681    77366.689  제주특별자치도            19045                   1253          0.117            2.874               1890.804
+46          1771845   234430.840     전라남도            32380                   2077          0.132            1.827               1172.224
+이동 고립 위험 고령자(75+, 면허 없음): 210290 / 75+ 필수거주: 281223
+{'n_routes_weekday': 1962, 'n_localgov': 26, 'median_runs': 1.0, 'share_le2': 0.7752293577981652, 'share_le4': 0.891946992864424}
+{
+ "pop_total": 51084158.99999999,
+ "pop_uncov": 4756613.327129334,
+ "pop65_uncov": 1147101.7932076338,
+ "pop_car_ess": 2323110.655367823,
+ "pop65_car_ess": 659756.0877483956,
+ "pop75_car_ess": 281223.4537525621,
+ "share_car_ess": 0.045476145655404115,
+ "share65_car_ess": 0.058499330045731955,
+ "pop_car_ess_excl_flag": 2219015.505735758,
+ "n_hex": 177164,
+ "n_hex_car_ess_gt50": 69921,
+ "pop_bikeable_not_walkable": 7029874.922051964,
+ "pop_car_ess_bikeable": 1403517.7012649183
+}
+[DML] 1인당 승용차 연간 주행거리(km): θ=266.975 (95% CI -1772.443~2306.394), +10%p → 26.698 (+0.6% of mean), OLS -226.621
+[DML] 성인 1천명당 자가용 승용차(대): θ=-51.634 (95% CI -198.905~95.638), +10%p → -5.163 (-1.1% of mean), OLS -121.900
+[DML] 승용차 통근·통학 분담률(2020): θ=0.023 (95% CI -0.265~0.310), +10%p → 0.002 (+0.5% of mean), OLS -0.103
+[DML] 대중교통 통근·통학 분담률(2020): θ=-0.059 (95% CI -0.165~0.046), +10%p → -0.006 (-3.4% of mean), OLS -0.140
+[DML] 65세+ 운전자 사고 사망자(고령인구 10만명당, 2024-25 평균): θ=-20.593 (95% CI -44.681~3.495), +10%p → -2.059 (-19.3% of mean), OLS -10.077
+[SHAP] 1인당 승용차 연간 주행거리(km): spatialCV R2 GBM 0.49 / OLS 0.51 / random10 GBM 0.69; top: ['체감 인구밀도(log)', '자동차 필수 거주 비율', '철도역 보행권 비율', '재정자립도']
+[SHAP] 대중교통 통근·통학 분담률(2020): spatialCV R2 GBM 0.77 / OLS 0.75 / random10 GBM 0.88; top: ['철도역 보행권 비율', '체감 인구밀도(log)', '자동차 필수 거주 비율', '재정자립도']
+[SHAP] 65세+ 운전자 사고 사망자(고령인구 10만명당, 2024-25 평균): spatialCV R2 GBM 0.42 / OLS 0.55 / random10 GBM 0.52; top: ['체감 인구밀도(log)', '65세 이상 비율', '철도역 보행권 비율', '재정자립도']
+{
+ "national_share_car_ess": 0.0454761456554041,
+ "n_units": 142,
+ "pop_units": 18823371.0,
+ "pop_car_ess_units": 1796890.5774633014,
+ "people_lifted": 898445.2887316507,
+ "elderly_lifted": 274773.94433278276,
+ "d_vkt_bn_km_central": -0.2398628455083328,
+ "d_co2_kt_central": -34.180455484937426,
+ "d_vkt_bn_km_low": 1.5924426895188442,
+ "d_co2_kt_low": 226.9230832564353,
+ "d_vkt_bn_km_high": -2.07216838053551,
+ "d_co2_kt_high": -295.28399422631014,
+ "d_deaths65_per_year": 51.575415873283916,
+ "d_deaths65_per_year_ci": [
+  111.90503273836227,
+  -8.754200991794413
+ ]
+}
+{
+ "p1": {
+  "tier1_people": 210290.26518799932,
+  "tier1_cost_eok": 504.69663645119834,
+  "tier2_people": 659756.0877483956,
+  "tier2_cost_eok_50pct": 791.7073052980747,
+  "budget_2027_increase_eok": 3072,
+  "budget_2027_total_eok": 8652,
+  "special_refund_now": 1158.0446,
+  "special_after": 12003.999832219133,
+  "capital_refund": 21357.2168,
+  "gap_now": 18.442482094385657,
+  "gap_after": 1.779175033198228
+ },
+ "p2": {
+  "n_target_dong": 997,
+  "cover_top_n": {
+   "100": 0.16703264976743526,
+   "200": 0.2711259209679115,
+   "300": 0.35670061743259884,
+   "500": 0.4947254477156634
+  },
+  "target_share": 0.715308263133711,
+  "drt_budget_2027_eok": 2000,
+  "driverless_drt_eok": 322
+ },
+ "p3a": {
+  "holders_75p_car_ess": 70933.18856456278,
+  "extra_returns_per_year": 3539.5661093716826,
+  "crashes_avoided": 41.76688009058585,
+  "social_cost_saved_eok": 14.866177659361067,
+  "co2_kt_if_scrapped": 3.4197517965694515
+ },
+ "p3b": {
+  "bike_pop": 1403517.7012649183,
+  "km_per_person": 416,
+  "co2_kt_10pct": 8.320052933098438,
+  "co2_kt_20pct": 16.640105866196876
+ },
+ "p3c": {
+  "national_co2_pc_t": 0.6320114098752877,
+  "top2q_pop": 21024214.0,
+  "excess_mt": 2.672688383921616,
+  "q1_co2": 0.4266914846969771,
+  "q5_co2": 0.7683887453498933
+ }
+}
+그림 저장: ['F1_national_car_essential.png', 'F2_jeonnam_gwangju.png', 'F3_need_vs_benefit.png', 'F4_quintile_outcomes.png', 'F5_shap_transit.png', 'F6_typology.png', 'F7_infographic_map.png']

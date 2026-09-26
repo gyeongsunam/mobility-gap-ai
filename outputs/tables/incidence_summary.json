@@ -1,0 +1,224 @@
+{
+ "quintiles": {
+  "1": {
+   "n_units": 29.0,
+   "pop": 9574873.0,
+   "share_car_ess": 0.0019,
+   "vkt_pc": 2994.3262,
+   "co2_pc_t": 0.4267,
+   "daily_km_car": 26.8104,
+   "transit_commute": 0.4332,
+   "active_commute": 0.2202,
+   "death65_per_100k65": 2.8419,
+   "ev_per_1k_car": 19.4891,
+   "wage_mn": 46.3632,
+   "share_65p": 0.2168
+  },
+  "2": {
+   "n_units": 29.0,
+   "pop": 10702607.0,
+   "share_car_ess": 0.0109,
+   "vkt_pc": 3950.8794,
+   "co2_pc_t": 0.563,
+   "daily_km_car": 28.197,
+   "transit_commute": 0.3151,
+   "active_commute": 0.21,
+   "death65_per_100k65": 3.2441,
+   "ev_per_1k_car": 20.9096,
+   "wage_mn": 47.9232,
+   "share_65p": 0.216
+  },
+  "3": {
+   "n_units": 24.0,
+   "pop": 9515041.0,
+   "share_car_ess": 0.03,
+   "vkt_pc": 4458.6375,
+   "co2_pc_t": 0.6354,
+   "daily_km_car": 30.0366,
+   "transit_commute": 0.2344,
+   "active_commute": 0.1904,
+   "death65_per_100k65": 4.7843,
+   "ev_per_1k_car": 19.7727,
+   "wage_mn": 43.723,
+   "share_65p": 0.1988
+  },
+  "4": {
+   "n_units": 27.0,
+   "pop": 10682812.0,
+   "share_car_ess": 0.051,
+   "vkt_pc": 5264.4097,
+   "co2_pc_t": 0.7502,
+   "daily_km_car": 30.8192,
+   "transit_commute": 0.1553,
+   "active_commute": 0.1893,
+   "death65_per_100k65": 7.4048,
+   "ev_per_1k_car": 21.5531,
+   "wage_mn": 45.1863,
+   "share_65p": 0.1877
+  },
+  "5": {
+   "n_units": 111.0,
+   "pop": 10341402.0,
+   "share_car_ess": 0.1211,
+   "vkt_pc": 5392.2017,
+   "co2_pc_t": 0.7684,
+   "daily_km_car": 32.191,
+   "transit_commute": 0.1129,
+   "active_commute": 0.2237,
+   "death65_per_100k65": 14.1022,
+   "ev_per_1k_car": 25.4605,
+   "wage_mn": 40.1292,
+   "share_65p": 0.2791
+  }
+ },
+ "modu_regiontype": {
+  "수도권": {
+   "pop": 25927723,
+   "pop_65p": 5050361,
+   "pop_car_ess": 666830.0998,
+   "pop65_car_ess": 130765.5713,
+   "n_units": 61,
+   "members_q1end": 3450678,
+   "refund_recipients_month_avg": 2067027,
+   "refund_amount_q1_mil_krw": 138436,
+   "usage_amount_q1_mil_krw": 440757,
+   "share_car_ess": 0.0257,
+   "members_per_100": 13.3088,
+   "refund_per_capita_year_krw": 21357.2168
+  },
+  "일반지방권": {
+   "pop": 21069602,
+   "pop_65p": 4651876,
+   "pop_car_ess": 982467.0532,
+   "pop65_car_ess": 239510.9416,
+   "n_units": 83,
+   "members_q1end": 1370495,
+   "refund_recipients_month_avg": 651115,
+   "refund_amount_q1_mil_krw": 34632,
+   "usage_amount_q1_mil_krw": 98783,
+   "share_car_ess": 0.0466,
+   "members_per_100": 6.5046,
+   "refund_per_capita_year_krw": 6574.7801
+  },
+  "우대지원지역": {
+   "pop": 2611934,
+   "pop_65p": 945586,
+   "pop_car_ess": 380747.5717,
+   "pop65_car_ess": 156173.7467,
+   "n_units": 44,
+   "members_q1end": 54828,
+   "refund_recipients_month_avg": 137863,
+   "refund_amount_q1_mil_krw": 7188,
+   "usage_amount_q1_mil_krw": 22637,
+   "share_car_ess": 0.1458,
+   "members_per_100": 2.0991,
+   "refund_per_capita_year_krw": 11007.9351
+  },
+  "특별지원지역": {
+   "pop": 1474900,
+   "pop_65p": 630188,
+   "pop_car_ess": 293065.9307,
+   "pop65_car_ess": 133305.8281,
+   "n_units": 40,
+   "members_q1end": 25877,
+   "refund_recipients_month_avg": 11377,
+   "refund_amount_q1_mil_krw": 427,
+   "usage_amount_q1_mil_krw": 1038,
+   "share_car_ess": 0.1987,
+   "members_per_100": 1.7545,
+   "refund_per_capita_year_krw": 1158.0446
+  }
+ },
+ "kpass_sido_spearman": {
+  "members": -0.6887254901960784,
+  "refund": -0.7083333333333334
+ },
+ "isolation": {
+  "pop75_car_ess": 281223.4537525621,
+  "pop75_car_ess_no_license": 210290.26518799932,
+  "license_rate_75p_national": 0.25403004133592944,
+  "license_rate_75p_by_sido": {
+   "11": 0.273,
+   "26": 0.198,
+   "27": 0.25,
+   "28": 0.217,
+   "29": 0.247,
+   "30": 0.246,
+   "31": 0.268,
+   "36": 0.294,
+   "41": 0.27,
+   "43": 0.258,
+   "44": 0.262,
+   "46": 0.225,
+   "47": 0.261,
+   "48": 0.241,
+   "50": 0.287,
+   "51": 0.269,
+   "52": 0.249
+  }
+ },
+ "tsbis": {
+  "n_routes_weekday": 1962,
+  "n_localgov": 26,
+  "median_runs": 1.0,
+  "share_le2": 0.7752293577981652,
+  "share_le4": 0.891946992864424
+ },
+ "headline": {
+  "pop_total": 51084158.99999999,
+  "pop_uncov": 4756613.327129334,
+  "pop65_uncov": 1147101.7932076338,
+  "pop_car_ess": 2323110.655367823,
+  "pop65_car_ess": 659756.0877483956,
+  "pop75_car_ess": 281223.4537525621,
+  "share_car_ess": 0.045476145655404115,
+  "share65_car_ess": 0.058499330045731955,
+  "pop_car_ess_excl_flag": 2219015.505735758,
+  "n_hex": 177164,
+  "n_hex_car_ess_gt50": 69921,
+  "pop_bikeable_not_walkable": 7029874.922051964,
+  "pop_car_ess_bikeable": 1403517.7012649183
+ },
+ "income_elasticity": {
+  "A_none": {
+   "n": 220,
+   "elasticity_others": -0.0044,
+   "se_others": 0.1081,
+   "elasticity_car_ess_top3": 0.5136,
+   "se_car_ess_top3": 0.1448,
+   "diff": 0.5179,
+   "p_diff": 0.0041,
+   "r2": 0.322
+  },
+  "B_density_aging": {
+   "n": 220,
+   "elasticity_others": -0.1428,
+   "se_others": 0.1031,
+   "elasticity_car_ess_top3": -0.0026,
+   "se_car_ess_top3": 0.1568,
+   "diff": 0.1402,
+   "p_diff": 0.4341,
+   "r2": 0.4795
+  },
+  "C_plus_poverty": {
+   "n": 220,
+   "elasticity_others": -0.0406,
+   "se_others": 0.1205,
+   "elasticity_car_ess_top3": 0.0815,
+   "se_car_ess_top3": 0.1759,
+   "diff": 0.1221,
+   "p_diff": 0.4951,
+   "r2": 0.488
+  },
+  "D_plus_sido_fe": {
+   "n": 220,
+   "elasticity_others": 0.3425,
+   "se_others": 0.1056,
+   "elasticity_car_ess_top3": -0.0147,
+   "se_car_ess_top3": 0.1691,
+   "diff": -0.3571,
+   "p_diff": 0.0276,
+   "r2": 0.7942
+  }
+ }
+}

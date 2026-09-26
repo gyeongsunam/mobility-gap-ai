@@ -1,0 +1,5 @@
+﻿region_type,ref_date,period,members_q1end,refund_recipients_month_avg,usage_amount_q1_mil_krw,refund_amount_q1_mil_krw,usage_per_recipient_month_krw,refund_per_recipient_month_krw,note
+수도권,2026-03-31,2026-Q1,3450678,2067027,440757,138436,71077,22324,
+일반지방권,2026-03-31,2026-Q1,1370495,651115,98783,34632,50571,17730,
+우대지원지역,2026-03-31,2026-Q1,54828,137863,22637,7188,54733,17380,"원자료상 월평균 환급대상자수(137,863)>가입자수(54,828): 원자료 불일치, 게재값 그대로"
+특별지원지역,2026-03-31,2026-Q1,25877,11377,1038,427,30414,12512,

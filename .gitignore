@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 대용량 원자료(스크립트로 재다운로드)
+data/raw/geo/*.geojson
+data/raw/geo/*.gpkg
+data/raw/geo/*.gz
+data/raw/geo/ghspop/
+data/raw/geo/busstop/
+data/raw/geo/tsbis/stops/
+data/raw/geo/tsbis/routes/
+data/raw/geo/tsbis/timetable/
+data/raw/geo/*.html
+data/raw/localdata/
+data/raw/osm/
+data/raw/population/
+data/raw/facilities/
+data/raw/kotsa_ptc2025/*.pdf
+data/raw/stats/**/*_long.csv
+data/raw/stats/0*/
+data/raw/stats/1*/
+data/raw/stats/_ref/*.zip
+data/raw/stats/_ref/*.txt
+data/raw/stats/_ref/cj.txt
+data/raw/stats/_ref/hdr.txt
+# 중간 산출물(재생성)
+data/processed/
+report/build/
+report/report.html
+report/build_numbers.json
+# 주최측 로고(보고서 빌드 시 로컬에서만 사용)
+report/assets/logo_*.png
+# 로컬 메모
+docs/
+data/raw/stats/_ref/*.md
+!data/raw/stats/_ref/README_ref.md
+# 공공누리 4유형(변경금지) 원자료에서 옮긴 표는 배포하지 않음(분석은 이용허락 제한 없는 SSIS 자료 사용)
+data/raw/stats/tidy/basic_livelihood_2025.csv

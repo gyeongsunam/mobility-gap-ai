@@ -1,0 +1,46 @@
+  TS-BIS 정류소 54,848개 중 신규 9,204개 추가
+  버스정류장: TAGO+TS-BIS 219,442 + OSM 보완 0 (보완 시군 0개: [])
+  철도역: 1,358개 (OSM 1,365, 국가철도공단 203, 150m 중복 제거)
+  시설 좌표 결측 8,483건 → 대체 8,284건 (읍면동 5,182 / 시군구 3,102 / 실패 199)
+                  n   imputed
+ftype                        
+daily_shop    45069  0.085713
+hospital       1985  0.096222
+pharmacy      25850  0.061161
+primary_care  40977  0.064646
+  시설 좌표 결측 597건 → 대체 597건 (읍면동 436 / 시군구 161 / 실패 0)
+  대체 검증: {'sido': '경상북도', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1317, 'pop_weighted_mean_abs_err_m': 305.008, 'pop_weighted_median_abs_err_m': 56.912, 'share_hex_err_lt_500m': 0.744, 'mean_true_m': 1207.865, 'mean_imputed_m': 1225.558}
+  시설 좌표 결측 420건 → 대체 419건 (읍면동 265 / 시군구 154 / 실패 1)
+  대체 검증: {'sido': '경상북도', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 916, 'pop_weighted_mean_abs_err_m': 225.464, 'pop_weighted_median_abs_err_m': 51.11, 'share_hex_err_lt_500m': 0.879, 'mean_true_m': 1816.848, 'mean_imputed_m': 1785.136}
+  시설 좌표 결측 568건 → 대체 564건 (읍면동 428 / 시군구 136 / 실패 4)
+  대체 검증: {'sido': '충청남도', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1275, 'pop_weighted_mean_abs_err_m': 318.575, 'pop_weighted_median_abs_err_m': 43.72, 'share_hex_err_lt_500m': 0.738, 'mean_true_m': 1057.177, 'mean_imputed_m': 1080.58}
+  시설 좌표 결측 405건 → 대체 397건 (읍면동 284 / 시군구 113 / 실패 8)
+  대체 검증: {'sido': '충청남도', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 901, 'pop_weighted_mean_abs_err_m': 242.556, 'pop_weighted_median_abs_err_m': 31.705, 'share_hex_err_lt_500m': 0.875, 'mean_true_m': 1429.763, 'mean_imputed_m': 1414.695}
+  시설 좌표 결측 852건 → 대체 822건 (읍면동 624 / 시군구 198 / 실패 30)
+  대체 검증: {'sido': '대구광역시', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1769, 'pop_weighted_mean_abs_err_m': 189.8, 'pop_weighted_median_abs_err_m': 106.67, 'share_hex_err_lt_500m': 0.819, 'mean_true_m': 418.772, 'mean_imputed_m': 332.717}
+  시설 좌표 결측 575건 → 대체 575건 (읍면동 442 / 시군구 133 / 실패 0)
+  대체 검증: {'sido': '대구광역시', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 1297, 'pop_weighted_mean_abs_err_m': 166.007, 'pop_weighted_median_abs_err_m': 56.999, 'share_hex_err_lt_500m': 0.943, 'mean_true_m': 462.185, 'mean_imputed_m': 354.873}
+  시설 좌표 결측 457건 → 대체 457건 (읍면동 364 / 시군구 93 / 실패 0)
+  대체 검증: {'sido': '대전광역시', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1027, 'pop_weighted_mean_abs_err_m': 202.234, 'pop_weighted_median_abs_err_m': 141.227, 'share_hex_err_lt_500m': 0.783, 'mean_true_m': 385.661, 'mean_imputed_m': 236.222}
+  시설 좌표 결측 335건 → 대체 335건 (읍면동 259 / 시군구 76 / 실패 0)
+  대체 검증: {'sido': '대전광역시', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 728, 'pop_weighted_mean_abs_err_m': 183.431, 'pop_weighted_median_abs_err_m': 101.023, 'share_hex_err_lt_500m': 0.89, 'mean_true_m': 366.283, 'mean_imputed_m': 228.358}
+ circuity  share_pop_uncov  share_65p_uncov
+      1.0         0.052872         0.059269
+      1.2         0.086348         0.095165
+      1.3         0.104955         0.114999
+      1.4         0.124916         0.136046
+     allocation  pop_uncov  pop_car_ess  pop65_car_ess
+GHS-POP 2025(주)  5361558.0    2887745.0       791674.0
+  GHS·Kontur 평균  6119132.0    3532179.0       901902.0
+    Kontur 2023  6876706.0    4176613.0      1012131.0
+  대중교통 공간커버 밖 인구 5,361,558 (10.5%), 65+ 1,296,965 (11.5%)
+  자동차 필수 거주 인구 2,887,745 (5.7%), 65+ 791,674 (7.0%), 75+ 333,611 (7.4%)
+마스터 테이블 (228, 85), 정류장 자료 결함 의심 1곳: ['전라남도 보성군'] / 등록지 왜곡 의심: ['부산광역시 중구', '인천광역시 옹진군']
+결측 있는 열:
+ n_routes                    176
+n_routes_weekday_service    176
+weekday_runs_total          176
+n_routes_weekday_le2        176
+n_routes_weekday_ge10       176
+tsbis_share_routes_le2      176
+tsbis_runs_per_1k           176

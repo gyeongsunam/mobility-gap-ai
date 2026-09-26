@@ -1,0 +1,26 @@
+  TS-BIS 정류소 54,848개 중 신규 9,204개 추가
+  버스정류장: TAGO 219,442 + OSM 보완 0 (보완 시군 0개: [])
+  철도역: 1,358개 (OSM 1,365, 국가철도공단 203, 150m 중복 제거)
+  시설 좌표 결측 8,483건 → 대체 8,251건 (읍면동 5,149 / 시군구 3,102 / 실패 232)
+                  n   imputed
+ftype                        
+daily_shop    45060  0.085530
+hospital       1985  0.096222
+pharmacy      25831  0.060470
+primary_care  40972  0.064532
+  시설 좌표 결측 597건 → 대체 596건 (읍면동 435 / 시군구 161 / 실패 1)
+  대체 검증: {'sido': '경상북도', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1317, 'pop_weighted_mean_abs_err_m': 516.224, 'pop_weighted_median_abs_err_m': 51.896, 'share_hex_err_lt_500m': 0.7, 'mean_true_m': 1861.711, 'mean_imputed_m': 1949.862}
+  시설 좌표 결측 420건 → 대체 419건 (읍면동 265 / 시군구 154 / 실패 1)
+  대체 검증: {'sido': '경상북도', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 916, 'pop_weighted_mean_abs_err_m': 436.568, 'pop_weighted_median_abs_err_m': 45.014, 'share_hex_err_lt_500m': 0.783, 'mean_true_m': 3294.239, 'mean_imputed_m': 3158.178}
+  시설 좌표 결측 568건 → 대체 564건 (읍면동 428 / 시군구 136 / 실패 4)
+  대체 검증: {'sido': '충청남도', 'ftype': 'primary_care', 'drop_share': 0.45, 'n_fac': 1275, 'pop_weighted_mean_abs_err_m': 435.214, 'pop_weighted_median_abs_err_m': 18.583, 'share_hex_err_lt_500m': 0.733, 'mean_true_m': 1568.168, 'mean_imputed_m': 1693.546}
+  시설 좌표 결측 405건 → 대체 397건 (읍면동 284 / 시군구 113 / 실패 8)
+  대체 검증: {'sido': '충청남도', 'ftype': 'pharmacy', 'drop_share': 0.45, 'n_fac': 901, 'pop_weighted_mean_abs_err_m': 440.613, 'pop_weighted_median_abs_err_m': 23.548, 'share_hex_err_lt_500m': 0.798, 'mean_true_m': 2582.951, 'mean_imputed_m': 2567.092}
+  격자 74,196개, 인구 합계 51,084,159 (행정동 합계 51,084,159), 대표점 보정 행정동 86개
+ circuity  share_pop_uncov  share_65p_uncov
+      1.0         0.072629         0.074252
+      1.2         0.112964         0.115574
+      1.3         0.134537         0.137925
+      1.4         0.157166         0.161279
+  대중교통 공간커버 밖 인구 6,872,687 (13.5%), 65+ 1,555,524 (13.8%)
+  자동차 필수 거주 인구 4,133,855 (8.1%), 65+ 1,005,975 (8.9%), 75+ 411,942 (9.2%)
